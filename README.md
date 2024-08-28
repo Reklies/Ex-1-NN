@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME: Reklies J
-<H3>ENTER YOUR REGISTER NO: 212223110041
+Reklies J
+212223110041
 <H3>EX. NO.1</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
